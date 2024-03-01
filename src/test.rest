@@ -1,0 +1,10 @@
+GET https://apiv3.apifootball.com/?action=get_countries&APIkey=f9b7a316a8f2f649cc5b313d4e162c9dab12e40d01cd0f0459f2d337d7730454
+
+###
+
+GET https://apiv3.apifootball.com/?action=get_leagues&country_id=1&APIkey=f9b7a316a8f2f649cc5b313d4e162c9dab12e40d01cd0f0459f2d337d7730454
+
+
+###
+
+GET https://apiv3.apifootball.com/?action=get_standings&league_id=152&APIkey=f9b7a316a8f2f649cc5b313d4e162c9dab12e40d01cd0f0459f2d337d7730454
