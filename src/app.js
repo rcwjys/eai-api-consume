@@ -1,4 +1,4 @@
-const API_KEY = 'f9b7a316a8f2f649cc5b313d4e162c9dab12e40d01cd0f0459f2d337d7730454';
+const API_KEY = '9488fb4ee2f5d6d77e08a49c4faf8d766da2607ba458cb9632459e5d36f3848f';
 
 const url = {
   getCountry: `https://apiv3.apifootball.com/?action=get_countries&APIkey=${API_KEY}`,
